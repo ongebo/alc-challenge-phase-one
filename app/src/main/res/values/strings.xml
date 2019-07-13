@@ -4,4 +4,5 @@
     <string name="about">ABOUT ALC</string>
     <string name="profile">MY PROFILE</string>
     <string name="main_activity_title">ALC 4 Phase 1</string>
+    <string name="about_alc_activity_title">About ALC</string>
 </resources>
