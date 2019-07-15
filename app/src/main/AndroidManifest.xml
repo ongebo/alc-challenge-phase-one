@@ -11,7 +11,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MyProfileActivity"></activity>
+        <activity
+            android:name=".MyProfileActivity"
+            android:label="@string/profile_activity_title"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".AboutALCActivity"
             android:label="@string/about_alc_activity_title"
