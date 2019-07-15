@@ -10,5 +10,5 @@ Follow these steps to run the app:
 ![Image](screenshots/home-screen.png)
 #### About ALC Screen
 ![Image](screenshots/about-alc-screen.png)
-#### My Profile Page**
+#### My Profile Page
 ![Image](screenshots/profile-page.png)
